@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
     private List<ImageView> list;
     private int preposition = 0;
     private int[] imgs = {R.drawable.a, R.drawable.b,R.drawable.c,R.drawable.d,R.drawable.e};
-    private String[] text = {"骚a", "骚b", "骚c", "骚d", "骚e"};
+    private String[] text = {"骚1", "骚2", "骚3", "骚4", "骚5"};
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
